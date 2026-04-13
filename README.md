@@ -18,11 +18,7 @@
 
 ### 📊 GitHub Статистика
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpleIII&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpleIII&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpleIII&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SpleIII&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </div>
-
-### 🚀 Избранные проекты
-
-<div align="center"> <a href="https://github.com/SpleIII/spleeter_bot"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpleIII&repo=spleeter_bot&theme=radical&hide_border=true&bg_color=0D1117" /> </a> <a href="https://github.com/SpleIII/telegramm_forward_bot"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpleIII&repo=telegramm_forward_bot&theme=radical&hide_border=true&bg_color=0D1117" /> </a> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpleIII&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" /> </div>
 
 ### 📈 Активность
 
@@ -41,6 +37,10 @@
 | **📝 Всего коммитов** | <img src="https://img.shields.io/github/commit-activity/y/SpleIII/SpleIII?style=flat-square&color=00F7FF&label=Commits%2520(2025)"> |
 
 </div><div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpleIII&theme=radical" width="100%" /> </div><div align="center"> <table> <tr> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SpleIII&theme=radical" /> <br /> <b>📚 Языки по репозиториям</b> </td> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpleIII&theme=radical" /> <br /> <b>💻 Языки по коммитам</b> </td> </tr> <tr> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpleIII&theme=radical" /> <br /> <b>📈 Общая статистика</b> </td> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SpleIII&theme=radical&utcOffset=3" /> <br /> <b>⏰ Время кодинга</b> </td> </tr> </table> </div>
-🌐 Связаться со мной
-<div align="center"> <a href="https://t.me/SpleIII"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="https://github.com/SpleIII"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=00F7FF&gradientColorEnd=7700FF" width="100%" /> </div> ```
+
+### 🌐 Связаться со мной
+
+<div align="center">
+  <a href="https://t.me/SpleIIIuk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a><a href="https://github.com/SpleIII"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=00F7FF&gradientColorEnd=7700FF" width="100%" /> </div>

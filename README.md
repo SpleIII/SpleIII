@@ -1,32 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=500&lines=SpleIII;Backend+Developer;Go+%7C+Python+%7C+Telegram+Bots;API+%7C+Parsing+%7C+Databases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=500&lines=SpleIII;Creator+3blan+Client;Java+%7C+HTML+%7C+Telegram+Bots;API+%7C+Configs+%7C+Databases" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" width="50" height="50" alt="Go" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="50" height="50" alt="Java" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50" alt="Python" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50" height="50" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="50" height="50" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="50" height="50" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="50" height="50" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="50" height="50" alt="Git" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="50" height="50" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="50" height="50" alt="Redis" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50" height="50" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50" height="50" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="50" height="50" alt="CPP" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="50" height="50" alt="Discord" />
 </div>
 
 
-### 👨‍💻 Обо мне
 
-```yaml
-name: "SpleIII"
-location: "Россия"
-role: "Backend Developer"
-main_stack: ["Go", "Python", "PostgreSQL", "Redis"]
-interests: ["Telegram Bot Development", "API Design", "Web Scraping", "System Architecture"]
-currently_learning: ["Microservices", "Kubernetes", "gRPC"]
-fun_fact: "Пишу ботов, которые общаются лучше некоторых людей 🤖"
-```
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> </picture> </div>
 
 ### 📊 GitHub Статистика
